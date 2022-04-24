@@ -1,0 +1,42 @@
+.window {
+  background-color: lightgray;
+  text-align: center;
+  width: 80%;
+  margin-top: 20px;
+  margin-left: 10%;
+  padding: 2px;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.bash {
+  background-color: black;
+  height: 70%;
+  min-height: 400px;
+  width: 80%;
+  margin-left: 10%;
+  padding: 10px 2px;
+  font-family: 'IBM Plex Mono', monospace;
+
+  .instructions {
+    color: white;
+    display: block;
+    padding-left: 10px;
+    margin-bottom: 5px;
+  }
+
+
+
+  .bash-content {
+    color: white;
+    margin-left: 5px;
+
+    > span {
+      margin: 0 5px;
+    }
+  }
+
+
+
+
+
+}
