@@ -11,7 +11,8 @@ const config = {
 
 	kit: {
 		adapter: adapter({
-			precompress: true
+			precompress: true,
+			fallback: 'index.html'
 		}),
 		paths: {
 			base: dev ? '' : '/joelrindfleisch.github.io',
