@@ -15,7 +15,7 @@ const config = {
 			fallback: 'index.html'
 		}),
 		paths: {
-			base: dev ? '' : 'joelrindfleisch.github.io',
+			base: dev ? '' : '/joelrindfleisch.github.io'
 		}
 	}
 };

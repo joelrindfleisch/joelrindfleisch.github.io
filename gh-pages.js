@@ -4,7 +4,7 @@ publish(
 	'build',
 	{
 		branch: 'gh-pages',
-		repo: 'https://github.com/joelrindfleisch/joelrindfleisch.github.io.git',
+		repo: ' git@github.com:joelrindfleisch/joelrindfleisch.github.io.git',
 		user: {
 			name: 'joelrindfleisch',
 			email: 'joelrindfleisch@gmail.com'
