@@ -8,6 +8,11 @@
     <span class='prompt'>e</span>
     <br/>
     <div class='bash-content employment'>
+        <DateTooltip epochDate=1685628000 /> |
+        <span>John Deere Financial</span> |
+        <span>Staff Software Engineer</span>
+    </div>
+    <div class='bash-content employment'>
         <DateTooltip epochDate=1627907400 /> |
         <span>Stash</span> |
         <span>Senior Software Engineer</span>
